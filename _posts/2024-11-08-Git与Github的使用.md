@@ -59,5 +59,7 @@ tags:
 
 [在Github/Gitee上搭建免费个人博客网站（进阶篇） - 知乎](https://zhuanlan.zhihu.com/p/111832962)
 
+我暂时还没有看下面的延伸篇
+
 [在Github/Gitee上搭建免费个人网站和博客（延伸篇） - 知乎](https://zhuanlan.zhihu.com/p/111846728)
 
