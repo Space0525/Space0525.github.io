@@ -1,13 +1,13 @@
 # Site settings
 title: 宏伟的学习记录
-SEOTitle: 宏伟的学习笔记
+SEOTitle: 宏伟的学习笔记|Space0525
 header-img: img/post-bg-desk.jpg
 email: klovien@gmail.com
 description: "加油加油"
 keyword: "ROS、Python等"
-url: "https://klovien.github.io"          # your host, for absolute URL
+url: "https://Space0525.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/klovien/klovien.github.io.git" # you code repository
+github_repo: "https://github.com/Space0525/Space0525.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
