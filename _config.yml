@@ -2,7 +2,7 @@
 title: 宏伟的学习记录
 SEOTitle: 宏伟的学习笔记|Space0525
 header-img: img/post-bg-desk.jpg
-email: klovien@gmail.com
+email: dhw2536@163.com
 description: "加油加油"
 keyword: "ROS、Python等"
 url: "https://Space0525.github.io"          # your host, for absolute URL
@@ -64,9 +64,9 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: d18b343dd9c7ca49518a                            #生成的clientID
   clientSecret: 539e88b8a7feffaddbb553b9c421dfefcbc6eced    #生成的clientSecret
-  repo: klovien.github.io    #仓库名称
-  owner: klovien    #github用户名
-  admin: klovien
+  repo: Space0525.github.io    #仓库名称
+  owner: Space0525    #github用户名
+  admin: Space0525
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
