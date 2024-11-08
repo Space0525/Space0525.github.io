@@ -27,7 +27,7 @@ tags:
 ![1](../img/1.png)
 
 
-
+![1]({{site.baseurl}}../img/1.png)
 
 **课程笔记参考下述链接：**
 
