@@ -27,7 +27,7 @@ tags:
 ![1](../img/1.png)
 
 
-![1]({{site.baseurl}}../img/1.png)
+![1]({{https://github.com/Space0525/space0525.github.io/blob/master/img/1.png?raw=true}}../img/1.png)
 
 **课程笔记参考下述链接：**
 
@@ -55,7 +55,11 @@ tags:
 
 
 
-### 搭建Github记录学习内容
+### 搭建Github记录学习内容网站时的参考链接
+
+**初步搭建网站：**
+
+按照下述步骤基本上能搭建出自己的网站了，我使用的是Github + typora + Github desktop + vscode，软件安装搜一搜就可以找到合适的，不需要付费使用
 
 [不需懂代码，10分钟在Github搭建免费且已成型的个人博客网站 - 知乎](https://zhuanlan.zhihu.com/p/74778630)
 
@@ -65,3 +69,6 @@ tags:
 
 [在Github/Gitee上搭建免费个人网站和博客（延伸篇） - 知乎](https://zhuanlan.zhihu.com/p/111846728)
 
+**遇到困难：**
+
+1.上传的图片无法在网页上显示，只会显示出相对路径和图裂，没有图片可以加载出来
