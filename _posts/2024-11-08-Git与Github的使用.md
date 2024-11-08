@@ -50,3 +50,14 @@ tags:
 7. **发布项目到GitHub**：点击“Publish repository”按钮，确认信息后，将项目发布到GitHub平台。
 8. **编写代码**：在项目目录中新建文件并编写代码。
 9. **上传代码到GitHub**：在GitHub Desktop中提交代码，然后点击“Push origin”将代码上传到GitHub。
+
+
+
+### 搭建Github记录学习内容
+
+[不需懂代码，10分钟在Github搭建免费且已成型的个人博客网站 - 知乎](https://zhuanlan.zhihu.com/p/74778630)
+
+[在Github/Gitee上搭建免费个人博客网站（进阶篇） - 知乎](https://zhuanlan.zhihu.com/p/111832962)
+
+[在Github/Gitee上搭建免费个人网站和博客（延伸篇） - 知乎](https://zhuanlan.zhihu.com/p/111846728)
+
